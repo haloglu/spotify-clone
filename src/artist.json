@@ -1,0 +1,57 @@
+{
+  "name": "Sandık",
+  "albumCover": "/images/albumCovers/MuslumGursesSandik.jpg",
+  "releaseYear": "2009",
+  "tracks": [
+    {
+      "id": 1,
+      "name": "Tutamıyorum Zamanı",
+      "path": "/songs/Tutamıyorum-Zamanı.mp3"
+    },
+    {
+      "id": 2,
+      "name": "İtirazım Var",
+      "path": "/songs/İtirazım-Var.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Gönül",
+      "path": "/songs/Gönül.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Sarıl Bana",
+      "path": "/songs/Sarıl-Bana.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Vazgeçtim",
+      "path": "/songs/Vazgeçtim.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Benim Meselem",
+      "path": "/songs/Benim-Meselem.mp3"
+    },
+    {
+      "id": 7,
+      "name": "Sorma",
+      "path": "/songs/Sorma.mp3"
+    },
+    {
+      "id": 8,
+      "name": "Senden Vazgeçmem",
+      "path": "/songs/Senden-Vazgeçmem.mp3"
+    },
+    {
+      "id": 9,
+      "name": "Bu Şehirde Yaşanmaz",
+      "path": "/songs/Bu-Şehirde-Yaşanmaz.mp3"
+    },
+    {
+      "id": 10,
+      "name": "İtirazım Var (feat. Ceza)",
+      "path": "/songs/İtirazım-Var-(feat-Ceza).mp3"
+    }
+  ]
+}
